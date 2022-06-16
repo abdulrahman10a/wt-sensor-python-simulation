@@ -387,13 +387,11 @@ the localIP is the IP for host device
 
 ###### server output for (ax,ay,az,gx,gy,gz) :
 
-![](ax.png)
-![](ay.png) 
-![](az.png)
+![](images/ax.jpg.png)
+![](images/ay.jpg.png) 
+![](images/az.jpg.png)
 
-![](gx.png)
-![](gz.png)
-![](gy.png)
-
-
+![](images/gx.jpg.png)
+![](images/gy.jpg.png) 
+![](images/gz.jpg.png)
 
