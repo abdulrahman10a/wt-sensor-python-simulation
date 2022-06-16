@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # In[1]:
 
@@ -119,6 +118,11 @@ print (packet_list)
 
 # show the graphs
 '''
+import numpy as np
+from numpy import *
+from matplotlib import pyplot as plt
+from scipy.fft import *
+
 N = 810
 # sample spacing
 T = 1.0 / 810.0

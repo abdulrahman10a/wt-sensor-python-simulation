@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # In[1]:
 
@@ -158,15 +156,6 @@ for mass in range (7):
         
 
 
-# In[67]:
-
-
-print (ax_data[811*5])
-
-
-# In[64]:
-
-
 #client
 import socket
 
@@ -193,8 +182,6 @@ s.close()
 
 len(full_pack[0])
 
-
-# In[ ]:
 
 
 
